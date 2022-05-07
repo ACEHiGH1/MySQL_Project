@@ -1,0 +1,9 @@
+Manual for SQL Client.
+
+For insertion and update purposes:
+Username, Password, First Name, Last Name can not be longer than 12 characters.
+Email Address can not be longer than 25 characters.
+
+For Updating Values:
+The User Id value entered needs to be a integer.
+
